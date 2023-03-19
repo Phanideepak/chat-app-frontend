@@ -15,7 +15,7 @@ const HomePage = () => {
         borderRadius="lg"
         borderWidth="1px"
       >
-        <Text fontSize="4xl" fontFamily="Poppins"  color="black">Test to Leave live</Text>
+        <Text fontSize="4xl" fontFamily="Poppins"  color="black">Chat house</Text>
       </Box>
       <Box bg="white" w="100%" p={4} borderRadius="lg" borderWidth="1px" >
         <Tabs variant='soft-rounded' colorScheme='green'>
